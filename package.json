@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nabin Tiwari",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words","freeCodeCamp" ],                         
+	"keywords": [ "descriptive", "related", "words","freecodecamp" ],                         
 
 
 	"dependencies": {
