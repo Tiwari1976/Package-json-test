@@ -5,7 +5,7 @@
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ], 
 	"license": "MIT",  
 	"version": "1.1.0",
-	"package": "MAJOR.MINOR.PATCH"                      
+	                      
 
 
 	"dependencies": {
