@@ -1,28 +1,21 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Nabin Tiwari",
-	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words","freecodecamp" ], 
-	"license": "MIT",  
-	"version": "1.2.13",
-	"package": "MAJOR.MINOR.PATCH",
-
-	                      
-
-
-	"dependencies": {
-		"express": "^4.1.0",
-		"@freecodecamp/example" : "^1.2.13"
-		
-		
-		
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Nabin Tiwari",
+  "description": "A project that does something awesome",
+  "keywords": ["descriptive", "related", "words", "freecodecamp"],
+  "license": "MIT",
+  "version": "1.2.13",
+  "dependencies": {
+    "express": "^4.1.0",
+    "@freecodecamp/example": "^1.2.13"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
+
